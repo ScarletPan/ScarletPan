@@ -4,7 +4,7 @@ I am Haojie. Currently, I am an algorithm expert at [Kuaishou Technology](https:
 
 I work on text mining, natural language processing and knowledge graph.
 
-Here are my [LinkedIn](https://www.linkedin.cn/in/haojie-pan-767612245/), [Google Scholar](https://scholar.google.com/citations?user=2NehWz0AAAAJ&hl=en) pages. And I also post some blog articles in [Zhihu(知乎）](https://www.zhihu.com/people/scarlet-pan)
+Here are my [LinkedIn](https://www.linkedin.cn/in/haojie-pan-767612245/), [Google Scholar](https://scholar.google.com/citations?user=2NehWz0AAAAJ&hl=en) pages. And I also post some blog articles in [Zhihu(知乎）](https://www.zhihu.com/people/scarlet-pan).
 
 
 
