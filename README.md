@@ -4,7 +4,7 @@ I am Haojie. Currently, I am deeply fascinated by and actively working on develo
 
 I work on computational world knowledge, natural language processing and text mining.
 
-Here are my [LinkedIn](https://www.linkedin.com/in/haojie-pan-767612245/), [Google Scholar](https://scholar.google.com/citations?user=2NehWz0AAAAJ&hl=en) pages. And I also post some blog articles in [Zhihu(知乎）](https://www.zhihu.com/people/scarlet-pan).
+Here are my [Homepage](https://scarletpan.github.io/about/), [LinkedIn](https://www.linkedin.com/in/haojie-pan-767612245/), [Google Scholar](https://scholar.google.com/citations?user=2NehWz0AAAAJ&hl=en) pages. And I also post some blog articles in [Zhihu(知乎）](https://www.zhihu.com/people/scarlet-pan).
 
 
 
